@@ -18,6 +18,7 @@ To implement univariate Linear Regression to fit a straight line using least squ
 
 ## 
 Developed by: S.DEVI
+
 RegisterNumber:  212225100008
 
 ~~~
